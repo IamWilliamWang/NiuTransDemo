@@ -1,0 +1,6 @@
+F:\Visual Studio 2015\NiuTransDemo\bin\Debug\NiuTransDemo.exe.config
+F:\Visual Studio 2015\NiuTransDemo\bin\Debug\NiuTransDemo.exe
+F:\Visual Studio 2015\NiuTransDemo\bin\Debug\NiuTransDemo.pdb
+F:\Visual Studio 2015\NiuTransDemo\obj\Debug\NiuTransDemo.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2015\NiuTransDemo\obj\Debug\NiuTransDemo.exe
+F:\Visual Studio 2015\NiuTransDemo\obj\Debug\NiuTransDemo.pdb
